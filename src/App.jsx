@@ -30,9 +30,9 @@ function App() {
       {/* <ParentCounter /> */}
       {/* <Form/> */}
       {/* <FormikForm/> */}
-      {/* <ToDoList/> */}
+      <ToDoList/>
       {/* <UseEffectVariations/> */}
-      {<ReactRouterDOM/>}
+      {/* {<ReactRouterDOM/>} */}
     </>
     
   )
